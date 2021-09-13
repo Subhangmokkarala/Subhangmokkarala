@@ -3,10 +3,11 @@
 - I might not be where I want to be yet, but I get closer everyday
 - Android user since 2015
 - You're a shining star no matter who you're
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...watching movies
+- 🌱 I’m currently learning ... c
+- 💞️ I’m looking to collaborate on ... my birthday
+- 📫 How to reach me ...by a transport
+- or telegram spacehead242410
 
 <!---
 spacehead242410/spacehead242410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
