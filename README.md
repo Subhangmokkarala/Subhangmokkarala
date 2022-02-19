@@ -8,7 +8,6 @@
 - 😎 html and little css finished 
 - 💞️ I’m looking to collaborate on ... my birthday
 - 📫 How to reach me ...by a transport
-- or telegram spacehead242410
 
 <!---
 spacehead242410/spacehead242410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
