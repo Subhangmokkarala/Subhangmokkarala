@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Microcontrollers**
 
-- 🌱 I’m currently learning **Python packages,Java,Flutter Frameworks**
+- 🌱 I’m currently learning **Python packages,Java,Flutter Framework**
 
 - 👯 I’m looking to collaborate on **Any ideas**
 
