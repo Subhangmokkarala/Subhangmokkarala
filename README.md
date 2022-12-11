@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhangmokkarala&label=Profile%20views&color=0e75b6&style=flat" alt="subhangmokkarala" /> </p>
 
-- 🔭 I’m currently working on **Microcontrollers**
+- 🔭 I’m currently working on **None**
 
-- 🌱 I’m currently learning **Python packages,Java,Flutter Framework**
+- 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and artificial neural networks**
 
-- 👯 I’m looking to collaborate on **Any ideas**
+- 👯 I’m looking to collaborate on **Any projects and internships**
 
-- 🤝 I’m looking for help with **Ai for Microcontrollers**
+- 🤝 I’m looking for help with **ML on Microcontrollers**
 
-- 💬 Ask me about **Project ideas and doubts**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **subhangmokkarala@gmail.com**
+- 📫 How to reach me **spacehead242410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
