@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and artificial neural networks**
 
-- 👯 I’m looking to collaborate on **Any projects and internships**
+- 👯 I’m looking to collaborate on **NONE**
 
-- 🤝 I’m looking for help with **ML on Microcontrollers**
+- 🤝 I’m looking for help with **NONE**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **spacehead242410@gmail.com**
+- 📫 How to reach me **Soon To Be Updates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
