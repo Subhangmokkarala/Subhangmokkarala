@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Soon To Be Updates**
+- 📫 How to reach me **Soon To Be Updated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
