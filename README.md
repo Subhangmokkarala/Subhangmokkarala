@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Subhang Mokkarala</h1>
-<h3 align="center">An Electronics and communications engineer(To Be)</h3>
+<h3 align="center">An Electronics and communications Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhangmokkarala&label=Profile%20views&color=0e75b6&style=flat" alt="subhangmokkarala" /> </p>
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently working on **Color grading using ML**
 
 - 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and artificial neural networks**
 
-- 💻 R5-4600h,GTX-1650,16gb ram,1tb SSD,NO Server
+- 💻 **R5-4600h,GTX-1650,16gb ram,1tb SSD,NO Server**
 
-- 🤝 I’m looking for help with **NONE**
+- 🤩 Favourite Tv Shows**Agents of S.H.I.E.L.D,Constantine,BBC Sherlock**
+
+- 😎 Favourite Movies **Iron Man,Empire strikes back,Batman vs Superman,MI Rogue nation**
 
 - 💬 Ask me about **Anything**
 
