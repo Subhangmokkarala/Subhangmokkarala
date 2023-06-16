@@ -105,4 +105,3 @@
 </div>
 
 ###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhangmokkarala&show_icons=true&locale=en" alt="subhangmokkarala" /></p>
