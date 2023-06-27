@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/subhangmokkarala/subhangmokkarala/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Subhangmokkarala/Subhangmokkarala/output/snake.svg" alt="Snake animation" />
 
 ###
 
