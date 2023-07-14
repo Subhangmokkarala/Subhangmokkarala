@@ -2,9 +2,9 @@
 
 ###
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **NLP,CNN,RNN and React**
 
-- 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and artificial neural networks**
+- 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and ANN**
 
 - 💻 **R5-4600h,GTX-1650,16gb ram,1tb SSD**
 ###
