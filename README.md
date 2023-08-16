@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and ANN**
 
-- 💻 **R5-4600h,GTX-1650,16gb ram,1tb SSD**
+- 💻 **R5-4600h,GTX-1650**
 ###
 
 <div align="center">
