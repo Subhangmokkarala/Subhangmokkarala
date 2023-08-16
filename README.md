@@ -2,7 +2,7 @@
 
 ###
 
-- 🔭 I’m currently working on **NLP,CNN,RNN and React**
+- 🔭 I’m currently working on **NLP,CNN,RNN and Node**
 
 - 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and ANN**
 
