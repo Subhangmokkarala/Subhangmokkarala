@@ -2,9 +2,9 @@
 
 ###
 
-- 🔭 I’m currently working on **NLP,CNN,RNN and Node**
+- 🔭 I’m currently working on **Telegram bots and Model Recreation**
 
-- 🌱 I’m currently learning **Python packages,Java,Flutter Framework,Machine learning and ANN**
+- 🌱 I’m currently learning **neural nets, Computer Vision,Natural Language Processing, Flask,and Cloud Architecture**
 
 - 💻 **R5-4600h,GTX-1650**
 ###
