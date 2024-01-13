@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **neural nets, Computer Vision,Natural Language Processing, Flask,and Cloud Architecture**
 
-- 💻 **My Rig-R5-4600h,GTX-1650,My Server-i5 8thgen,rtx 2060**
+- 💻 **My Rig-R5-4600h,GTX-1650**
+- 🖥️**My Server-i5 8500T,rtx a2000**
 ###
 
 <div align="center">
