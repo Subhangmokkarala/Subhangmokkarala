@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋! My name is Subhang and I'm a Engineering Student</h2>
+<h2 align="left">Hi 👋! My name is Subhang and I'm a ML-ops Engineeer</h2>
 
 ###
 
 - 🔭 I’m currently working on **Telegram bots and Model Recreation**
 
-- 🌱 I’m currently learning **neural nets, Computer Vision,Natural Language Processing, Flask,and Cloud Architecture**
+- 🌱 I’m currently learning **Neural nets, Computer Vision,LLM's, gen Ai ,Flask,and Devops**
 
 - 💻 **My Rig-R5-4600h,GTX-1650**
-- 🖥️**My Server-i5 8500T,rtx a2000**
+- 🖥️ **My Server-i7 8700,Tesla P4**
 ###
 
 <div align="center">
