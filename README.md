@@ -93,7 +93,3 @@
 [![An image of @subhangmokkarala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhangmokkarala)](https://holopin.io/@subhangmokkarala)
 
 
-###
-
-[Open Spotify Playlist](https://open.spotify.com/playlist/6vDtKMHouxpzNWChtprJ57?utm_source=generator)
-
