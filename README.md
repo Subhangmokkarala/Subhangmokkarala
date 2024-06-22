@@ -92,7 +92,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-[![Spotify Playlist](https://open.spotify.com/embed/playlist/6vDtKMHouxpzNWChtprJ57?utm_source=generator)]
+[![Spotify Playlist](https://pin.it/7wjbI4H1D)](https://open.spotify.com/playlist/5cMbNTZPw3uBsrFYU0g4C1?si=47bc4e32aac04de3)
 
 [![An image of @subhangmokkarala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhangmokkarala)](https://holopin.io/@subhangmokkarala)
 
