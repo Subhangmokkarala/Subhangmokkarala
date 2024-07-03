@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Subhang and I'm a ML-ops Engineeer</h2>
+<h2 align="left">Hi 👋! My name is Subhang and I'm a MLE/ops Engineeer(Soon To Be)</h2>
 
 ###
 
-- 🔭 I’m currently working on **Telegram bots and Model Recreation**
+- 🔭 I’m currently working on **Telegram bots and Model Recreation and bit of electronics**
 
 - 🌱 I’m currently learning **Neural Nets,Computer Vision,LLM's,Style Transfer,Flask,and Devops**
 
