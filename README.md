@@ -92,7 +92,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-[![Spotify Playlist](http![Kermit-modified]https://github.com/user-attachments/assets/a50d7bb3-5acc-4343-8fee-175d281fc226)](https://open.spotify.com/playlist/5cMbNTZPw3uBsrFYU0g4C1?si=47bc4e32aac04de3)
+[![Spotify Playlist](https://github.com/user-attachments/assets/fab060c9-db8c-421b-9176-0e3c4a3681f3)](https://open.spotify.com/playlist/5cMbNTZPw3uBsrFYU0g4C1?si=47bc4e32aac04de3)
 
 [![An image of @subhangmokkarala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhangmokkarala)](https://holopin.io/@subhangmokkarala)
 
