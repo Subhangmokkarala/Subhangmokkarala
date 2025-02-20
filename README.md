@@ -92,7 +92,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-[![Spotify Playlist](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMKgf-oWsl8bwzcUyieuBUE5Sd1qYIXSoO-8ReC1OJM-stLZ-b)](https://open.spotify.com/playlist/5cMbNTZPw3uBsrFYU0g4C1?si=47bc4e32aac04de3)
 [![An image of @subhangmokkarala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhangmokkarala)](https://holopin.io/@subhangmokkarala)
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/subhangmokkarala/)
