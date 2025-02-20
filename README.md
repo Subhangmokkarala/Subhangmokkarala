@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Subhang and I'm a MLE/ops Engineeer(Soon To Be)</h2>
+<h2 align="left">Hi 👋! My name is Subhang and I'm a MLE/ops Engineer</h2>
 
 ###
 
