@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Neural Nets,Computer Vision,LLM's,Style Transfer,Flask,and Devops**
 
 - 💻 **My Rig-R5-4600h,GTX-1650**
-- 🖥️ **My Server-i7 8700,Tesla P4**
+- 🖥️ **My Server-i7 8700,T600**
 ###
 
 <div align="center">
