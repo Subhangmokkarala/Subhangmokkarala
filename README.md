@@ -3,11 +3,11 @@
 ###
 - 🔭 I’m currently working on **(on a break)**
 
-- 🌱 I’m currently learning **Devops,ML-OPS**
+- 🌱 I’m currently learning **ML-Ops,Dev-Ops,ML**
 
-- 💻 **My Rig-R5-4600h,GTX-1650**
+- 💻 **My Rig-R7-260,GTX-GTX-5050**
 - 🖥️ **Node-1-i7-8700,RTX 3050, Nvidia P4**
-- 🖥️ **Node-2-i7-8700,Quadro p1000 MXM**
+- 🖥️ **Node-2-i7-8700,Nvidia T600**
 ###
 
 <div align="center">
